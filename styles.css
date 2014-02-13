@@ -1,0 +1,17 @@
+body {
+    background: #64aad0;
+    font-family: 'PT Sans', sans-serif;
+    margin: 50px;
+}
+
+p {
+    color: #101010;
+    font-size: 14px;
+}
+
+h1 {
+    color: #8a4817;
+    font-size: 20px;
+    text-align: center;
+    font-family: 'PT Sans Caption', sans-serif;
+}
