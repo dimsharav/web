@@ -15,3 +15,22 @@ h1 {
     text-align: center;
     font-family: 'PT Sans Caption', sans-serif;
 }
+
+.small {
+    width: 100px;
+    height: 100px;
+}
+
+#big {
+    width: 200px;
+    height: 200px;
+}
+
+.greek {
+    list-style-type: lower-greek;
+    color: green;
+}
+
+.error {
+    color: red;
+}
